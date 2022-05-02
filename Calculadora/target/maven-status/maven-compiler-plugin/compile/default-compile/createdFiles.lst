@@ -1,0 +1,5 @@
+com\mycompany\calculadora\domain\Converter.class
+com\mycompany\calculadora\domain\Calculator.class
+com\mycompany\calculadora\Main.class
+com\mycompany\calculadora\view\Listener.class
+com\mycompany\calculadora\view\Printer.class
